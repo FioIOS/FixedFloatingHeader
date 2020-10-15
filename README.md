@@ -34,7 +34,7 @@ func collectionView(_ collectionView: UICollectionView, layout collectionViewLay
 
 
 # ScreenShot
-![image](https://github.com/drkong1/FixedFloatingHeader/blob/master/screen.gif)
+![image](https://github.com/drkong1/FixedFloatingHeader/blob/main/screen.gif)
 
 
 # Library
